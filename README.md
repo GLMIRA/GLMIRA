@@ -1,7 +1,7 @@
 # GLMIRA
 
 ### Olá, tudo bem? Seja Bem Vindo.
-#### Meu nome é Gabriel Mira. Sou estudante de Engenharia de Controle e Automação  pela Universidade Tecnológica Federal do Paraná (UTFPR) e um amante de Programação.
+#### Meu nome é Gabriel Mira. Sou estudante de Eng da Computação pela Universidade Tecnológica Federal do Paraná (UTFPR).
 
 
 ## Conecte-se comigo
