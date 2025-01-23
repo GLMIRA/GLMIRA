@@ -17,7 +17,7 @@
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GLMIRA&layout=compact&bg_color=000&border_color=cc0000&title_color=bcbcbc&text_color=FFF)
 
 ## Repositorios
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GLMIRA&repo=accounting_your_mother&bg_color=000&border_color=cc0000&show_icons=true&icon_color=30A3DC&title_color=bcbcbc&text_color=FFF)](https://github.com/GLMIRA/accounting_your_mother)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GLMIRA&repo=accounting_your_mother&bg_color=000&border_color=cc0000&show_icons=true&icon_color=30A3DC&title_color=bcbcbc&text_color=FFF)](https://github.com/GLMIRA/Cortaki/tree/developer_mira)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GLMIRA&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
