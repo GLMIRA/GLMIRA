@@ -2,7 +2,9 @@
 
 ## Sobre mim
 🎯 **Foco atual:** Desemvolvimento Back-End
+
 💼 **Trabalhando em:** No Momento apenas Estudando   
+
 🌱 **Aprendendo:** FastAPI - Node.js 
 
 ## 🚀 Minhas Tecnologias
