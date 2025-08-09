@@ -20,4 +20,4 @@
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GLMIRA&repo=accounting_your_mother&bg_color=000&border_color=cc0000&show_icons=true&icon_color=30A3DC&title_color=bcbcbc&text_color=FFF)](https://github.com/GLMIRA/Cortaki/tree/developer_mira)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GLMIRA&theme=transparent&bg_color=000&border_color=1565C0&show_icons=true&icon_color=42A5F5&title_color=64B5F6&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GLMIRA&theme=transparent&bg_color=000&border_color=CC0000&show_icons=true&icon_color=FF3333&title_color=FF5555&text_color=FFF)
