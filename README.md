@@ -5,7 +5,7 @@
 
 💼 **Trabalhando em:** No Momento apenas Estudando   
 
-🌱 **Aprendendo:** FastAPI - Node.js 
+🌱 **Aprendendo:** FastAPI  
 
 ## 🚀 Minhas Tecnologias
 
