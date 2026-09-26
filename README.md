@@ -1,7 +1,7 @@
-# Olá! Eu sou Gabriel Lima Mira 👋
+# Olá! Eu sou O Mira 👋
 
 ## Sobre mim
-🎯 **Foco atual:** Desemvolvimento Back-End
+🎯 **Foco atual:** Cyber Sec
 
 💼 **Trabalhando em:** No Momento apenas Estudando   
 
